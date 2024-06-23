@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # istasyonum
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Istasyonum
+Bitirme Projesi 
+>>>>>>> f272b82a3a5ee9c8ac4a112ee1f3ead561c03ef5
